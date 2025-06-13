@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/to-do-app/static/css/main.31d6cfe0.css",
-    "main.js": "/to-do-app/static/js/main.2fa29f42.js",
+    "main.css": "/to-do-app/static/css/main.15a139f3.css",
+    "main.js": "/to-do-app/static/js/main.d27e106b.js",
     "index.html": "/to-do-app/index.html",
-    "main.2fa29f42.js.map": "/to-do-app/static/js/main.2fa29f42.js.map"
+    "main.15a139f3.css.map": "/to-do-app/static/css/main.15a139f3.css.map",
+    "main.d27e106b.js.map": "/to-do-app/static/js/main.d27e106b.js.map"
   },
   "entrypoints": [
-    "static/css/main.31d6cfe0.css",
-    "static/js/main.2fa29f42.js"
+    "static/css/main.15a139f3.css",
+    "static/js/main.d27e106b.js"
   ]
 }
