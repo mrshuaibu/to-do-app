@@ -1,31 +1,37 @@
-# ⭐ React Star Rating System
+# ✅ React To-Do List App
 
-A simple and interactive Star Rating component built with **React**, designed to 
-capture user feedback with a clean UI and smooth UX. This project demonstrates 
-the use of `useState`, event handling, `.map()`, and conditional styling ideal 
-for forms, reviews, or feedback systems.
+A fast, interactive, and bold **To-Do List App** built with **React**, designed 
+to help users stay organized. This project showcases core concepts like 
+`useState`, `useReducer`, `useEffect`, conditional rendering, and data 
+persistence with `localStorage`.
 
-##  Features
+## ✨ Features
 
-- **5-Star Rating Interface**  
-  Allows users to rate from 1 to 5 stars with dynamic text feedback.
+- **Task Creation**  
+  Add new tasks with timestamps instantly.
 
--  **Hover Feedback**  
-  Stars highlight on hover to show selection preview.
+- **Task Editing**  
+  Edit tasks directly using the same input field with no pop-ups.
 
--  **Dark Mode UI**  
-  Built-in dark-themed interface for modern aesthetics.
+- **Mark as Done / Undo**  
+  Toggle between ✅ (done) and ❌ (not done) status with one click.
 
--  **State Management**  
-  Uses React's `useState` to manage hover and click states.
+- **Delete Tasks**  
+  Quickly remove unwanted tasks with a trash icon.
 
--  **Accessibility-Friendly**  
-  Buttons are labeled for screen reader support.
+- **Persistent Storage**  
+  All tasks are saved in the browser using `localStorage`.
+
+- **Live Timestamp**  
+  Each task records when it was created or last edited.
+
+- **Modern UI**  
+  Bold, clean, and dark-themed interface for a sharp look.
 
 ## 🛠️ Technologies Used
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![FontAwesome](https://img.shields.io/badge/FontAwesome-%23339AF0.svg?style=flat&logo=font-awesome&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![LocalStorage](https://img.shields.io/badge/Storage-LocalStorage-ff9800?style=flat)
